@@ -1,6 +1,6 @@
 # Gig Worker Deaths
 
-This repository contains data from our story, "[More Than 50 U.S. Gig Workers Murdered on the Job in Five Years](TK)."
+This repository contains data from our story, "[More Than 50 U.S. Gig Workers Murdered on the Job in Five Years](https://themarkup.org/working-for-an-algorithm/2022/04/06/more-than-50-u-s-gig-workers-murdered-on-the-job-in-five-years)."
 
 
 ## Data
