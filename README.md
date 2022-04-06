@@ -5,7 +5,7 @@ This repository contains data from our story, "[More Than 50 U.S. Gig Workers Mu
 
 ## Data
 
-`data/gig-worker-deaths.csv` catalogs instances of gig workers being killed on the job. This data was collected by the organization [Gig Workers Rising](https://gigworkersrising.org/), which used "publicly available information, including news reports, police documents, legal filings and family accounts obtained through searches of GoFundMe fundraisers, Google, Reddit, LexisNexis, and [The Markup’s database of carjackings of ride-hail drivers around the country](https://github.com/the-markup/investigation-gig-carjacking)." It was then verified by The Markup.
+`data/gig-worker-deaths.csv` catalogs instances of gig workers being murdered on the job. This data was collected by the organization [Gig Workers Rising](https://gigworkersrising.org/), which used "publicly available information, including news reports, police documents, legal filings and family accounts obtained through searches of GoFundMe fundraisers, Google, Reddit, LexisNexis, and [The Markup’s database of carjackings of ride-hail drivers around the country](https://github.com/the-markup/investigation-gig-carjacking)." It was then verified by The Markup.
 
 Data in the file is arranged as follows:
 
