@@ -22,3 +22,4 @@ Data in the file is arranged as follows:
 | **`Source 2`** |    Additional confirmation of the incident.
 | **`Source 3`** |    Additional confirmation of the incident.
 | **`Source 4`** |    Additional confirmation of the incident.
+| **`Note`**| Further details about the incident.
